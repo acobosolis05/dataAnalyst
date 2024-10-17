@@ -6,5 +6,5 @@ Bienvenido a mi repositorio de proyectos creativos en ciencias, donde exploro la
 
 Estos proyectos están diseñados no solo para investigadores, sino también para estudiantes, profesionales y público en general interesados en comprender conceptos científicos avanzados de manera visual y accesible.
 
-![tablero 1](assets/Diapositiva1.png)
+![tablero 1](assets/Diapositiva1.PNG)
 
