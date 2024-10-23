@@ -7,6 +7,9 @@ Bienvenido a mi repositorio de proyectos creativos en ciencias, donde exploro la
 Estos proyectos están diseñados no solo para investigadores, sino también para estudiantes, profesionales y público en general interesados en comprender conceptos científicos avanzados de manera visual y accesible.
 
 ## Tableros y Resúmenes Gráficos
+
+https://app.powerbi.com/view?r=eyJrIjoiNjE4ZGE4MjYtMjQ4Yy00NTJhLWFhZGItZTliOWQwZjNhMGZkIiwidCI6Ijk5ZTFlNzIxLTcxODQtNDk4ZS04YWZmLWIyYWQ0ZTUzYzFjMiIsImMiOjR9
+
 ![tablero 1](assets/Diapositiva1.PNG)
 
 ![tablero 2](assets/Diapositiva2.PNG)
