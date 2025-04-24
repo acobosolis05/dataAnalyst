@@ -8,6 +8,8 @@ Estos proyectos están diseñados no solo para investigadores, sino también par
 
 ## Tableros y Resúmenes Gráficos
 
+https://app.powerbi.com/view?r=eyJrIjoiMTY0MTFlNjktZWE4OS00ODA4LThiNTEtY2QyNThmNWE5YmNiIiwidCI6Ijk5ZTFlNzIxLTcxODQtNDk4ZS04YWZmLWIyYWQ0ZTUzYzFjMiIsImMiOjR9&pageName=f211c11a283fcaa998ad
+
 https://app.powerbi.com/view?r=eyJrIjoiNjE4ZGE4MjYtMjQ4Yy00NTJhLWFhZGItZTliOWQwZjNhMGZkIiwidCI6Ijk5ZTFlNzIxLTcxODQtNDk4ZS04YWZmLWIyYWQ0ZTUzYzFjMiIsImMiOjR9
 
 ![tablero 1](assets/Diapositiva1.PNG)
