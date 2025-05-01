@@ -12,24 +12,29 @@ https://app.powerbi.com/view?r=eyJrIjoiMTY0MTFlNjktZWE4OS00ODA4LThiNTEtY2QyNThmN
 
 https://app.powerbi.com/view?r=eyJrIjoiNjE4ZGE4MjYtMjQ4Yy00NTJhLWFhZGItZTliOWQwZjNhMGZkIiwidCI6Ijk5ZTFlNzIxLTcxODQtNDk4ZS04YWZmLWIyYWQ0ZTUzYzFjMiIsImMiOjR9
 
+https://app.powerbi.com/links/3GlNH4yr8P?ctid=99e1e721-7184-498e-8aff-b2ad4e53c1c2&pbi_source=linkShare
+
+
 ![tablero 1](assets/Diapositiva10.PNG)
 
 ![tablero 2](assets/Diapositiva11.PNG)
 
 ![tablero 3](assets/Diapositiva1.PNG)
 
-![tablero 4](assets/Diapositiva2.PNG)
+![tablero 4](assets/Diapositiva12.PNG)
 
-![tablero 5](assets/Diapositiva3.PNG)
+![tablero 5](assets/Diapositiva2.PNG)
 
-![tablero 6](assets/Diapositiva4.PNG)
+![tablero 6](assets/Diapositiva3.PNG)
 
-![tablero 7](assets/Diapositiva5.PNG)
+![tablero 7](assets/Diapositiva4.PNG)
 
-![tablero 8](assets/Diapositiva6.PNG)
+![tablero 8](assets/Diapositiva5.PNG)
 
-![tablero 9](assets/Diapositiva7.PNG)
+![tablero 9](assets/Diapositiva6.PNG)
 
-![tablero 10](assets/Diapositiva8.PNG)
+![tablero 10](assets/Diapositiva7.PNG)
 
-![tablero 11](assets/Diapositiva9.PNG)
+![tablero 11](assets/Diapositiva8.PNG)
+
+![tablero 12](assets/Diapositiva9.PNG)

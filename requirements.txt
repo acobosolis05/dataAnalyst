@@ -1,0 +1,7 @@
+pip
+pandas
+matplotlib
+numpy
+watchdog
+papermill
+openpyxl
