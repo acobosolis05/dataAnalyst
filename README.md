@@ -21,7 +21,7 @@ https://app.powerbi.com/links/3GlNH4yr8P?ctid=99e1e721-7184-498e-8aff-b2ad4e53c1
 
 ![tablero 3](assets/Diapositiva1.PNG)
 
-![tablero 4](assets/Diapositiva12.PNG)
+![tablero 4](assets/Diapositiva12.png)
 
 ![tablero 5](assets/Diapositiva2.PNG)
 
